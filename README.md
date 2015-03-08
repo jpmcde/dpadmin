@@ -2,10 +2,10 @@
 
 ## Required Functionality
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
-* Install via bower using `bower install startbootstrap-sb-admin-2`
+* Status Monitor Log (service worker's notes)
+* List all users / Delete / Edit
+* View user's session logs
+* Last Online
 
 ## Ideas to fill out the interface
 
