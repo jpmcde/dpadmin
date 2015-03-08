@@ -1,4 +1,4 @@
-# [Dre's Playground]
+# Dre's Playground
 
 ## Required Functionality
 
